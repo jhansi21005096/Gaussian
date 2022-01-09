@@ -46,7 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](gaussianoutput.PNG)
+![gaussian elimination](gaussianoutput.png)
 
 
 ## Result:
